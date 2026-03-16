@@ -1,4 +1,6 @@
-# EXP-1
+### Name:Dinesh Kumar Rajendran
+### Reg no:212224250005#
+
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 
 # AIM
